@@ -19,5 +19,5 @@ This project was developed as my final year project for university. It’s a ful
 
 - Frontend: React (JavaScript), Material-UI, CSS
 - Backend: Node.js, Express  
-- Database: AWS RDS (Relational Database Service)
+- Database: MySQL + AWS RDS integration (Relational Database Service)
 - Storage: LocalStorage (with optional cloud sync)  
