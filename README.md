@@ -17,7 +17,7 @@ This project was developed as my final year project for university. It’s a ful
 
 ## Tech Stack
 
-- Frontend: React (JavaScript), Material-UI  
+- Frontend: React (JavaScript), Material-UI, CSS
 - Backend: Node.js, Express  
 - Database: AWS RDS (Relational Database Service)
 - Storage: LocalStorage (with optional cloud sync)  
