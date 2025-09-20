@@ -21,3 +21,27 @@ This project was developed as my final year project for university. It’s a ful
 - Backend: Node.js, Express  
 - Database: MySQL + AWS RDS integration (Relational Database Service)
 - Storage: LocalStorage (with optional cloud sync)  
+
+## Installation
+
+1. **Clone the repository**  
+```bash
+git clone https://github.com/usafdev/pfms.git
+cd pfms
+```
+2. **Install and run the frontend**
+```bash
+cd frontend
+npm install
+npm start
+```
+- The frontend will start on http://localhost:3000.
+3. **Install and run the backend**
+```bash
+cd ../backend
+npm install
+node index.js
+```
+- The backend server will start (check index.js for the port, usually 8080).
+4. **Access the app**
+- Open your browser and go to http://localhost:3000
