@@ -4,6 +4,7 @@ Personal Financial Management System – expenditure tracking and savings
 
 This project was developed as my final year project for university. It’s a full-stack app built with React (frontend) and Node.js (backend) to help users manage expenses and savings easily.
 
+![Home](pfms/assets/Screenshot_3.png)
 ## Features
 
 - User authentication (login/signup)  
@@ -14,6 +15,8 @@ This project was developed as my final year project for university. It’s a ful
 - Currency support (USD, EUR, GBP, JPY)  
 - Cloud sync for persistent storage  
 - Bar chart visualization of expenses  
+
+![ExpenseAnalysis](pfms/assets/Screenshot_1.png)
 
 ## Tech Stack
 
